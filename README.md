@@ -17,7 +17,7 @@ The Splunk dashboard provides real-time visibility into the attack, tracking fai
 ## Attack Simulation & Detection
 The attack was simulated using THC-Hydra against the SMB service. Splunk successfully ingested the logs and triggered a high-severity alert based on a tuned correlation rule.
 
-![Alert Triggered](screenshotsss/alert-triggered.png)
+![Alert Triggered](screenshotsss/Alert_triggered.png)
 
 ## MITRE ATT&CK Mapping
 - T1110.001 - Brute Force: Password Guessing
